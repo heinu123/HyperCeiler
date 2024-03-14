@@ -309,6 +309,8 @@ Chức năng này là chức năng thử nghiệm có độ ổn định cao</st
     <string name="system_framework_volume_steps">Hệ số bước âm lượng</string>
     <string name="system_ui_display_cutout_title">Màn hình khuyết</string>
     <string name="system_ui_display_hide_cutout">Ẩn màn hình khuyết</string>
+    <string name="system_ui_display_use_aosp_screenshot">Sử dụng trình chụp ảnh màn hình AOSP</string>
+    <string name="system_ui_display_use_aosp_screenshot_desc">Chuyển ứng dụng chụp ảnh màn hình sang chụp ảnh màn hình AOSP, ứng dụng chụp màn hình trong MIUI/HyperOS sẽ không phản hồi thao tác chụp màn hình</string>
     <string name="system_ui_display_brightness_title">Độ sáng</string>
     <string name="system_ui_display_auto_brightness">Phạm vi cho độ sáng tự động</string>
     <string name="system_ui_display_auto_brightness_desc">Xác định giá trị tối thiểu và tối đa cho độ sáng tự động</string>
